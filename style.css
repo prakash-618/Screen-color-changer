@@ -1,0 +1,45 @@
+html,body{
+    margin: 0%;
+}
+#yellow{
+    height: 50px;
+    width: 50px;
+    padding: 50px;
+    margin: 5px;
+    border: solid white 5px;
+    border-radius: 10px;
+    background-color: yellow;
+}
+#blueviolet{
+    height: 50px;
+    width: 50px;
+    padding: 50px;
+    margin: 5px;
+    border: solid white 5px;
+    border-radius: 10px;
+    background-color: blueviolet;
+}
+#red{
+    height: 50px;
+    width: 50px;
+    padding: 50px;
+    margin: 5px;
+    border: solid white 5px;
+    border-radius: 10px;
+    background-color: red;
+}
+#grey{
+    height:50px;
+    width: 50px;
+    padding: 50px;
+    margin: 5px;
+    border: solid white 5px;
+    border-radius: 10px;
+    background-color: grey;
+}
+.button{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
